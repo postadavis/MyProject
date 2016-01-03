@@ -1,4 +1,3 @@
-Enter file contents here
 # This Python automation program demo starts the open source Heavyload stress tool,
 # lets it run for a period of time, and then, stops and closes the application.
 # Rather than use the uncertain pixel locations on the display, it uses the program hotkeys instead.
